@@ -1,0 +1,10 @@
+{
+  "description": "Create a stunning portfolio effortlessly by transforming your resume data into a sleek, Mac OS-inspired design, perfect for showcasing your skills.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
